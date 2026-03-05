@@ -1,7 +1,7 @@
 # 📊 Relatórios ALV (ABAP List Viewer)
 
 > <sub>**Extração, Processamento e Visualização de Dados**</sub>
-> <sub>Este diretório é dedicado a scripts e programas cujo objetivo final é buscar dados nas tabelas do ERP, processá-los em memória e exibi-los ao usuário através de grades interativas (ALV). É o padrão ouro para relatórios analíticos no ABAP Backend.</sub>
+> <sub>Este diretório é dedicado a scripts e programas com o objetivo final é buscar dados nas tabelas do ERP, processá-los em memória e exibi-los ao usuário através de grades interativas (ALV). É o padrão para relatórios analíticos no ABAP Backend.</sub>
 
 ---
 
